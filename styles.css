@@ -1,0 +1,45 @@
+img{
+    width: 18rem;
+    height: 15rem;
+    margin: 0.25rem;
+}
+.grid-button{
+    border: none;
+    background-color: white;
+    font-size: smaller;
+}
+.grid-button:hover{
+    color: rgb(0, 123, 255);
+    background-color: white;
+    font-size: smaller;
+}
+.grid-button:focus{
+    color: rgb(0, 123, 255);
+    background-color: white;
+    font-size: smaller;
+}
+.list-button{
+    border: none;
+    background-color: white;
+    font-size: smaller;
+}
+.list-button:hover{
+    color: rgb(0, 123, 255);
+    background-color: white;
+    font-size: smaller;
+}
+.list-button:focus{
+    color: rgb(0, 123, 255);
+    background-color: white;
+    font-size: smaller;
+}
+
+#list{
+    display:none;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    width: 40rem;
+    height: 37rem;
+    margin: 0.5rem;
+}
